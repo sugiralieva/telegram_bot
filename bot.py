@@ -2,7 +2,7 @@ import telebot
 import bot_utilites
 from telebot import types
 
-token = '6372785791:AAGPWCjzc8cSiARhuMBUwsbVumjuf-uPCj0'
+token = 'YOUR_TOKEN'
 
 bot = telebot.TeleBot(token, parse_mode='markdown')
 
